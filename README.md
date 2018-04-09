@@ -11,5 +11,5 @@ git clone https://github.com/thiagoeh/dotvim.git ~/.vim # everyone else
 ```
 # References
 
-- Syncing `.vim` (using Git/GitHub)[https://stackoverflow.com/a/18203545]
+- Syncing `.vim` [using Git/GitHub](https://stackoverflow.com/a/18203545)
 - A more elaborate solution https://developer.atlassian.com/blog/2016/02/best-way-to-store-dotfiles-git-bare-repo/

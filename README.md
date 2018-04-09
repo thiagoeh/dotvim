@@ -3,8 +3,11 @@ My VIM settings directory
 
 # Setup
 
+Supposing you don't have a `.vim` configuration directory already.
 ```bash
-git clone git@github.com:thiagoeh/dotvim.git ~/.vim
+git clone git@github.com:thiagoeh/dotvim.git ~/.vim # just me 
+
+git clone https://github.com/thiagoeh/dotvim.git ~/.vim # everyone else
 ```
 # References
 

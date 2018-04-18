@@ -27,3 +27,9 @@ set showmatch
 
 " enable all Python syntax highlighting features
 let python_highlight_all = 1
+
+
+" https://wiki.python.org/moin/Vim
+" https://tedlogan.com/techblog3.html
+set softtabstop=4
+filetype indent on

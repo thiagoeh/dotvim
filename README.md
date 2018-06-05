@@ -5,9 +5,8 @@ My VIM settings directory
 
 Supposing you don't have a `.vim` configuration directory already.
 ```bash
-git clone git@github.com:thiagoeh/dotvim.git ~/.vim # just me 
-
-git clone https://github.com/thiagoeh/dotvim.git ~/.vim # everyone else
+git clone https://github.com/thiagoeh/dotvim.git ~/.vim
+git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 ```
 # References
 
